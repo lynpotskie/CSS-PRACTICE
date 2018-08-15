@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+div {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    border: 1px solid lightblue;
+}
+h1 {
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    text-align: center;
+}
+.one {
+    Background-image: url(back1.png);
+}
+.two {
+    Background-image: url(back2.png);
+    }
+.three {
+    Background-image: url(back3.png);
+}
+.four {
+    Background-image: url(back4.png);
+}
+.five {
+    Background-image:url(back5.png);
+}
+.six {
+    Background-image:url(back6.png);
+}
